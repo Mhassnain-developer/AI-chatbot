@@ -1,4 +1,4 @@
-import './app.css'
+import './App.css'
 import ChatBot from './assets/Chatbot';
 
 import { useState } from 'react';
